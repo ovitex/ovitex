@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Shazed Muntashir Ovi
 #### I am GitHub Readme Generator's creator
-(https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+!(https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 Social Media Manager & Data Analyst at Usmani Islami Library||Co-convenor at BASIS Student Forum||Bsc In Textile Engineering||Data Analyst||Software Experience Tester||Python Programmer||Graphics Designer & Video Editor
 
