@@ -1,8 +1,8 @@
-### Hi there 👋, my name is Shazed
+### Hi there 👋, my name is Shazed Muntashir Ovi
 #### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+(https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+Social Media Manager & Data Analyst at Usmani Islami Library||Co-convenor at BASIS Student Forum||Bsc In Textile Engineering||Data Analyst||Software Experience Tester||Python Programmer||Graphics Designer & Video Editor
 
 Skills: VUE JS / REACT / JS / HTML / CSS
 
