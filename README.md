@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Shazed Muntashir Ovi
 Social Media Manager & Data Analyst at Usmani Islami Library||Co-convenor at BASIS Student Forum||Bsc In Textile Engineering||Data Analyst||Software Experience Tester||Python Programmer||Graphics Designer & Video Editor
 
-Skills: Python / SQL / Power BI / Cloud computing / Java / C++
+Base Knowledge: Python / SQL / Power BI / Cloud computing / Java / C++
 
 - 🔭 I’m currently working on computational material 
 - 🌱 I’m currently learning Machine Learning 
